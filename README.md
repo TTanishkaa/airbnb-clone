@@ -1,4 +1,4 @@
-# 🎨 My First CSS Bootcamp Project
+# 🎨 My First CSS Bootcamp Project : airbnb clone
 
 Hi there!  👋
 This repository contains my work from the "How to CSS" Bootcamp, which I joined as my first-ever dive into CSS and web design. It was an exciting journey where I learned the basics of styling web pages using CSS!
@@ -17,7 +17,7 @@ During this bootcamp, I covered:
 💡 Basic design tips and accessibility considerations
 
 📁 What's Inside
-index.html — The main webpage I styled
+index.html — The main webpage
 
 style.css — My stylesheet!
 
@@ -30,4 +30,4 @@ VS Code
 Chrome DevTools
 
 🙌 Acknowledgments
-Huge thanks to the instructors and fellow bootcamp participants for the support and inspiration. This is just the beginning of my web development journey!
+Huge thanks to the instructors and fellow bootcamp participants for the support and inspiration. This is the beginning of my web development journey!
